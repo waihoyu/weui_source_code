@@ -14,8 +14,8 @@ WEUI是一套同微信原生视觉体验一致的基础样式库，由微信官�
 [https://weui.io](https://weui.io)
 
 ## 文档
-- WEUI  说明文档参考[Wiki]()
-- WEUI  视觉标准参考[weui-design]()
+- WEUI 说明文档参考[wiki](https://github.com/Tencent/weui/wiki)
+- WEUI 视觉标准参考[weui-design](https://github.com/weui/weui-design)
 
 ## License
 The MIT License(http://opensource.org/license/MIT)
@@ -24,7 +24,7 @@ The MIT License(http://opensource.org/license/MIT)
 ## 贡献
 如果您有好的意见和建议，欢迎给我们提issue或pull request，为提升微信web体验贡献力量。
 
-===
+=== 
 [Build Status](https://travis-ci.org/Tencent/weui.svg?branch=master)
 
 
