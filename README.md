@@ -40,5 +40,5 @@ weui  源码分析;
 
 ## 搜索相关
 
-##按照WeUI的要求，仿照一个Tabber
+## 按照WeUI的要求，仿照一个Tabber
 ![11](./images/tabber.jpg)
