@@ -1,14 +1,22 @@
-
+// 
+// 
 //正则表达式
 
 // /1[345789]\d{9}/.test('13701343809')
 // /^1[345789]\d{9}$/.test('13701343809')
 
+/**
+ * 
+ * @param {*} isbn 
+ * @param {*} title 
+ * @param {*} author 
+ */
  function Book (isbn,title,author) {
     this._setIsbn(isbn);
     this.title = title || '未给标题';
     this.author = author ||'未给作者';
 }
+
 
 Book.prototype._setIsbn = function(isbn){
     
@@ -28,3 +36,16 @@ Book.prototype.getTitle = function(){
 }
 
 var book = new Book('11','22','33');
+
+
+/** 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+*/
